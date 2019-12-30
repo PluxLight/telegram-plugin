@@ -1,0 +1,75 @@
+2019-09-09 14:40:57,145-alabs.icon.exe.log-INFO-vvargs.py:575-[5132] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-09-09 14:40:57,147-alabs.icon.exe.log-INFO-__init__.py:117-[5132] >>>starting...
+2019-09-09 14:40:57,248-alabs.icon.exe.log-INFO-__init__.py:128-[5132] >>>end...
+2019-09-09 14:54:13,994-alabs.icon.exe.log-INFO-vvargs.py:575-[7472] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-09-09 14:54:13,994-alabs.icon.exe.log-INFO-__init__.py:117-[7472] >>>starting...
+2019-09-09 14:54:14,041-alabs.icon.exe.log-INFO-__init__.py:128-[7472] >>>end...
+2019-10-30 22:31:44,158-alabs.icon.exe.log-INFO-vvargs.py:575-[6324] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-10-30 22:31:44,159-alabs.icon.exe.log-INFO-__init__.py:117-[6324] >>>starting...
+2019-10-30 22:31:44,201-alabs.icon.exe.log-ERROR-__init__.py:124-[6324] alabs.icon Error: bad transparency mask
+2019-10-30 22:31:44,202-alabs.icon.exe.log-INFO-__init__.py:128-[6324] >>>end...
+2019-10-30 22:31:44,227-alabs.icon.exe.log-ERROR-vvargs.py:138-[6324] 'do_icon
+(Namespace(config_file='icon.yaml', css=None, dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, outfile=None, output_file='icon.png', statfile=None, ttf=None, verbose=0),(),{})
+Error bad transparency mask
+Error Stack: Traceback (most recent call last):
+  File "c:\users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "c:\users\jeon\py4\lib\site-packages\alabs\icon\__init__.py", line 120, in do_icon
+    r = ig.gen()
+  File "c:\users\jeon\py4\lib\site-packages\alabs\icon\__init__.py", line 105, in gen
+    im_blank.paste(im_icon, (offset_x, offset_y), im_icon)
+  File "c:\users\jeon\py4\lib\site-packages\PIL\Image.py", line 1524, in paste
+    self.im.paste(im, box, mask.im)
+ValueError: bad transparency mask
+
+2019-10-30 22:41:26,058-alabs.icon.exe.log-INFO-vvargs.py:575-[1332] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-10-30 22:41:26,058-alabs.icon.exe.log-INFO-__init__.py:117-[1332] >>>starting...
+2019-10-30 22:41:26,098-alabs.icon.exe.log-INFO-__init__.py:128-[1332] >>>end...

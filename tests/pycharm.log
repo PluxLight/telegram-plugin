@@ -1,0 +1,2186 @@
+2019-10-28 12:20:25,191-pycharm.log-INFO-vvargs.py:575-[10452] args={'bot_token': 'tom',
+ 'chat_id': 'jerry',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-10-28 12:20:25,191-pycharm.log-INFO-__init__.py:42-[10452] >>>starting...
+2019-10-28 12:20:25,193-pycharm.log-INFO-__init__.py:46-[10452] >>>end...
+2019-11-04 10:23:26,970-pycharm.log-INFO-vvargs.py:575-[11872] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 10:23:26,971-pycharm.log-INFO-__init__.py:46-[11872] >>>starting...
+2019-11-04 10:23:31,565-pycharm.log-INFO-__init__.py:62-[11872] >>>end...
+2019-11-04 14:29:33,402-pycharm.log-INFO-vvargs.py:575-[11632] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:29:33,403-pycharm.log-INFO-__init__.py:46-[11632] >>>starting...
+2019-11-04 14:30:40,268-pycharm.log-INFO-vvargs.py:575-[7420] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:30:40,268-pycharm.log-INFO-__init__.py:46-[7420] >>>starting...
+2019-11-04 14:31:35,308-pycharm.log-INFO-vvargs.py:575-[6656] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:31:35,309-pycharm.log-INFO-__init__.py:46-[6656] >>>starting...
+2019-11-04 14:32:40,733-pycharm.log-INFO-vvargs.py:575-[10760] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:32:40,733-pycharm.log-INFO-__init__.py:46-[10760] >>>starting...
+2019-11-04 14:33:42,813-pycharm.log-INFO-vvargs.py:575-[7712] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:33:42,814-pycharm.log-INFO-__init__.py:46-[7712] >>>starting...
+2019-11-04 14:34:25,489-pycharm.log-INFO-vvargs.py:575-[6696] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:34:25,490-pycharm.log-INFO-__init__.py:46-[6696] >>>starting...
+2019-11-04 14:41:26,711-pycharm.log-INFO-vvargs.py:575-[10784] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:41:26,712-pycharm.log-INFO-__init__.py:46-[10784] >>>starting...
+2019-11-04 14:56:49,963-pycharm.log-INFO-vvargs.py:575-[14116] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:56:49,963-pycharm.log-INFO-__init__.py:89-[14116] >>>starting...
+2019-11-04 14:56:51,894-pycharm.log-ERROR-vvargs.py:138-[14116] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error name 'get_message' is not defined
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 92, in telegram_func
+    telebot.bot_start(argspec.bot_token, int(argspec.chat_id))
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 47, in bot_start
+    message_handler = MessageHandler(Filters.text, get_message)  # 메세지를 받았을 때 동작 할 것들
+NameError: name 'get_message' is not defined
+
+2019-11-04 14:57:09,609-pycharm.log-INFO-vvargs.py:575-[12308] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 14:57:09,610-pycharm.log-INFO-__init__.py:89-[12308] >>>starting...
+2019-11-04 15:00:01,628-pycharm.log-INFO-vvargs.py:575-[11920] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 15:00:01,628-pycharm.log-INFO-__init__.py:86-[11920] >>>starting...
+2019-11-04 15:07:20,810-pycharm.log-INFO-vvargs.py:575-[6796] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 15:07:20,810-pycharm.log-INFO-__init__.py:84-[6796] >>>starting...
+2019-11-04 15:07:42,148-pycharm.log-INFO-vvargs.py:575-[10256] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 15:07:42,148-pycharm.log-INFO-__init__.py:84-[10256] >>>starting...
+2019-11-04 15:07:46,605-pycharm.log-INFO-__init__.py:91-[10256] >>>end...
+2019-11-04 15:08:23,826-pycharm.log-INFO-vvargs.py:575-[10556] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 15:08:23,826-pycharm.log-INFO-__init__.py:81-[10556] >>>starting...
+2019-11-04 15:22:50,365-pycharm.log-INFO-vvargs.py:575-[12304] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-04 15:22:50,366-pycharm.log-INFO-__init__.py:81-[12304] >>>starting...
+2019-11-11 14:25:03,118-pycharm.log-INFO-vvargs.py:575-[10568] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:25:03,119-pycharm.log-INFO-__init__.py:79-[10568] >>>starting...
+2019-11-11 14:25:28,156-pycharm.log-INFO-vvargs.py:575-[1912] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:25:28,156-pycharm.log-INFO-__init__.py:78-[1912] >>>starting...
+2019-11-11 14:27:03,360-pycharm.log-INFO-vvargs.py:575-[11288] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:27:03,361-pycharm.log-INFO-__init__.py:78-[11288] >>>starting...
+2019-11-11 14:27:07,775-pycharm.log-INFO-__init__.py:85-[11288] >>>end...
+2019-11-11 14:30:48,931-pycharm.log-INFO-vvargs.py:575-[11076] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:30:48,932-pycharm.log-INFO-__init__.py:78-[11076] >>>starting...
+2019-11-11 14:32:27,100-pycharm.log-INFO-vvargs.py:575-[1748] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:32:27,101-pycharm.log-INFO-__init__.py:79-[1748] >>>starting...
+2019-11-11 14:32:49,566-pycharm.log-INFO-vvargs.py:575-[11948] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:32:49,567-pycharm.log-INFO-__init__.py:80-[11948] >>>starting...
+2019-11-11 14:33:31,533-pycharm.log-INFO-vvargs.py:575-[11924] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:33:31,534-pycharm.log-INFO-__init__.py:80-[11924] >>>starting...
+2019-11-11 14:38:14,958-pycharm.log-INFO-vvargs.py:575-[1420] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:38:14,958-pycharm.log-INFO-__init__.py:80-[1420] >>>starting...
+2019-11-11 14:38:34,041-pycharm.log-INFO-vvargs.py:575-[5924] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:38:34,042-pycharm.log-INFO-__init__.py:80-[5924] >>>starting...
+2019-11-11 14:40:53,898-pycharm.log-INFO-vvargs.py:575-[4372] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:40:53,898-pycharm.log-INFO-__init__.py:80-[4372] >>>starting...
+2019-11-11 14:45:03,070-pycharm.log-INFO-vvargs.py:575-[4928] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:45:03,070-pycharm.log-INFO-__init__.py:81-[4928] >>>starting...
+2019-11-11 14:45:28,149-pycharm.log-INFO-vvargs.py:575-[10948] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:45:28,150-pycharm.log-INFO-__init__.py:81-[10948] >>>starting...
+2019-11-11 14:45:49,565-pycharm.log-INFO-vvargs.py:575-[524] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:45:49,566-pycharm.log-INFO-__init__.py:81-[524] >>>starting...
+2019-11-11 14:45:54,647-pycharm.log-INFO-__init__.py:88-[524] >>>end...
+2019-11-11 14:47:11,932-pycharm.log-INFO-vvargs.py:575-[8616] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:47:11,932-pycharm.log-INFO-__init__.py:81-[8616] >>>starting...
+2019-11-11 14:49:03,435-pycharm.log-INFO-vvargs.py:575-[7536] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:49:03,436-pycharm.log-INFO-__init__.py:82-[7536] >>>starting...
+2019-11-11 14:49:10,008-pycharm.log-INFO-__init__.py:90-[7536] >>>end...
+2019-11-11 14:49:34,274-pycharm.log-INFO-vvargs.py:575-[10992] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:49:34,274-pycharm.log-INFO-__init__.py:82-[10992] >>>starting...
+2019-11-11 14:59:00,912-pycharm.log-INFO-vvargs.py:575-[5744] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:59:00,913-pycharm.log-INFO-__init__.py:80-[5744] >>>starting...
+2019-11-11 14:59:26,349-pycharm.log-INFO-vvargs.py:575-[3708] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 14:59:26,349-pycharm.log-INFO-__init__.py:80-[3708] >>>starting...
+2019-11-11 15:10:18,561-pycharm.log-INFO-vvargs.py:575-[992] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 15:10:18,562-pycharm.log-INFO-__init__.py:44-[992] >>>starting...
+2019-11-11 15:13:16,077-pycharm.log-INFO-vvargs.py:575-[8612] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 15:13:16,078-pycharm.log-INFO-__init__.py:44-[8612] >>>starting...
+2019-11-11 15:14:19,630-pycharm.log-INFO-vvargs.py:575-[9948] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 15:14:19,631-pycharm.log-INFO-__init__.py:44-[9948] >>>starting...
+2019-11-11 15:14:48,017-pycharm.log-INFO-vvargs.py:575-[2472] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 15:14:48,018-pycharm.log-INFO-__init__.py:44-[2472] >>>starting...
+2019-11-11 16:05:17,017-pycharm.log-INFO-vvargs.py:575-[3792] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 16:05:17,017-pycharm.log-INFO-__init__.py:44-[3792] >>>starting...
+2019-11-11 16:14:11,916-pycharm.log-INFO-vvargs.py:575-[1908] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 16:14:11,916-pycharm.log-INFO-__init__.py:44-[1908] >>>starting...
+2019-11-11 16:20:57,180-pycharm.log-INFO-vvargs.py:575-[9912] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 16:20:57,180-pycharm.log-INFO-__init__.py:44-[9912] >>>starting...
+2019-11-11 16:22:58,427-pycharm.log-INFO-vvargs.py:575-[5040] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 16:22:58,428-pycharm.log-INFO-__init__.py:44-[5040] >>>starting...
+2019-11-11 16:25:22,935-pycharm.log-INFO-vvargs.py:575-[7912] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 16:25:22,935-pycharm.log-INFO-__init__.py:44-[7912] >>>starting...
+2019-11-11 21:49:36,366-pycharm.log-INFO-vvargs.py:575-[2408] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:49:36,368-pycharm.log-INFO-__init__.py:44-[2408] >>>starting...
+2019-11-11 21:50:27,787-pycharm.log-INFO-vvargs.py:575-[8248] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:50:27,788-pycharm.log-INFO-__init__.py:44-[8248] >>>starting...
+2019-11-11 21:51:16,290-pycharm.log-INFO-vvargs.py:575-[3160] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:51:16,290-pycharm.log-INFO-__init__.py:44-[3160] >>>starting...
+2019-11-11 21:52:20,125-pycharm.log-INFO-vvargs.py:575-[2356] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:52:20,125-pycharm.log-INFO-__init__.py:44-[2356] >>>starting...
+2019-11-11 21:55:49,652-pycharm.log-INFO-vvargs.py:575-[2428] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:55:49,653-pycharm.log-INFO-__init__.py:44-[2428] >>>starting...
+2019-11-11 21:56:15,311-pycharm.log-INFO-vvargs.py:575-[1444] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:56:15,312-pycharm.log-INFO-__init__.py:44-[1444] >>>starting...
+2019-11-11 21:56:59,467-pycharm.log-INFO-vvargs.py:575-[2504] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 21:56:59,467-pycharm.log-INFO-__init__.py:44-[2504] >>>starting...
+2019-11-11 22:02:57,369-pycharm.log-INFO-vvargs.py:575-[10208] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:02:57,370-pycharm.log-INFO-__init__.py:44-[10208] >>>starting...
+2019-11-11 22:14:07,084-pycharm.log-INFO-vvargs.py:575-[8788] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:14:07,085-pycharm.log-INFO-__init__.py:44-[8788] >>>starting...
+2019-11-11 22:18:42,235-pycharm.log-INFO-vvargs.py:575-[8204] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:18:42,236-pycharm.log-INFO-__init__.py:44-[8204] >>>starting...
+2019-11-11 22:18:48,692-pycharm.log-ERROR-vvargs.py:138-[8204] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error an integer is required (got type str)
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 18, in bot_idle
+    self.updater.idle(stop_signals='SIGINT')
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 525, in idle
+    signal(sig, self.signal_handler)
+  File "C:\Users\jeon\AppData\Local\Programs\Python\Python38-32\lib\signal.py", line 47, in signal
+    handler = _signal.signal(_enum_to_int(signalnum), _enum_to_int(handler))
+TypeError: an integer is required (got type str)
+
+2019-11-11 22:20:04,217-pycharm.log-INFO-vvargs.py:575-[2948] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:20:04,218-pycharm.log-INFO-__init__.py:44-[2948] >>>starting...
+2019-11-11 22:20:10,802-pycharm.log-ERROR-vvargs.py:138-[2948] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error 'Signals' object is not iterable
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 18, in bot_idle
+    self.updater.idle(stop_signals=signal.SIGINT)
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 524, in idle
+    for sig in stop_signals:
+TypeError: 'Signals' object is not iterable
+
+2019-11-11 22:22:00,312-pycharm.log-INFO-vvargs.py:575-[9832] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:22:00,313-pycharm.log-INFO-__init__.py:44-[9832] >>>starting...
+2019-11-11 22:23:32,118-pycharm.log-INFO-vvargs.py:575-[7360] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:23:32,119-pycharm.log-INFO-__init__.py:44-[7360] >>>starting...
+2019-11-11 22:24:29,227-pycharm.log-INFO-vvargs.py:575-[10640] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:24:29,231-pycharm.log-INFO-__init__.py:44-[10640] >>>starting...
+2019-11-11 22:24:52,729-pycharm.log-INFO-vvargs.py:575-[2744] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:24:52,730-pycharm.log-INFO-__init__.py:44-[2744] >>>starting...
+2019-11-11 22:35:11,188-pycharm.log-INFO-vvargs.py:575-[9844] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:35:11,188-pycharm.log-INFO-__init__.py:44-[9844] >>>starting...
+2019-11-11 22:36:23,229-pycharm.log-INFO-vvargs.py:575-[9120] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:36:23,230-pycharm.log-INFO-__init__.py:44-[9120] >>>starting...
+2019-11-11 22:37:42,176-pycharm.log-INFO-vvargs.py:575-[3928] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:37:42,177-pycharm.log-INFO-__init__.py:44-[3928] >>>starting...
+2019-11-11 22:37:48,076-pycharm.log-ERROR-vvargs.py:138-[3928] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error 'Signals' object is not iterable
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 18, in bot_idle
+    self.updater.idle(stop_signals=signal.SIGINT)
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 524, in idle
+    for sig in stop_signals:
+TypeError: 'Signals' object is not iterable
+
+2019-11-11 22:38:41,881-pycharm.log-INFO-vvargs.py:575-[10368] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:38:41,882-pycharm.log-INFO-__init__.py:44-[10368] >>>starting...
+2019-11-11 22:38:48,119-pycharm.log-ERROR-vvargs.py:138-[10368] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error 'Signals' object is not iterable
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 18, in bot_idle
+    self.updater.idle(signal.SIGINT)
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 524, in idle
+    for sig in stop_signals:
+TypeError: 'Signals' object is not iterable
+
+2019-11-11 22:42:36,102-pycharm.log-INFO-vvargs.py:575-[6464] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:42:36,104-pycharm.log-INFO-__init__.py:44-[6464] >>>starting...
+2019-11-11 22:42:42,050-pycharm.log-INFO-vvargs.py:575-[7652] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:42:42,051-pycharm.log-INFO-__init__.py:44-[7652] >>>starting...
+2019-11-11 22:42:57,932-pycharm.log-INFO-vvargs.py:575-[2620] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:42:57,934-pycharm.log-INFO-__init__.py:44-[2620] >>>starting...
+2019-11-11 22:43:16,026-pycharm.log-INFO-vvargs.py:575-[10932] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:43:16,027-pycharm.log-INFO-__init__.py:44-[10932] >>>starting...
+2019-11-11 22:43:47,624-pycharm.log-INFO-vvargs.py:575-[10960] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:43:47,624-pycharm.log-INFO-__init__.py:44-[10960] >>>starting...
+2019-11-11 22:44:09,891-pycharm.log-INFO-vvargs.py:575-[2360] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:44:09,891-pycharm.log-INFO-__init__.py:44-[2360] >>>starting...
+2019-11-11 22:44:38,954-pycharm.log-INFO-vvargs.py:575-[2512] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:44:38,955-pycharm.log-INFO-__init__.py:44-[2512] >>>starting...
+2019-11-11 22:45:00,627-pycharm.log-INFO-vvargs.py:575-[2300] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:45:00,628-pycharm.log-INFO-__init__.py:44-[2300] >>>starting...
+2019-11-11 22:45:31,874-pycharm.log-INFO-vvargs.py:575-[2044] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:45:31,875-pycharm.log-INFO-__init__.py:44-[2044] >>>starting...
+2019-11-11 22:46:22,771-pycharm.log-INFO-vvargs.py:575-[3624] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:46:22,772-pycharm.log-INFO-__init__.py:44-[3624] >>>starting...
+2019-11-11 22:47:41,231-pycharm.log-INFO-vvargs.py:575-[1500] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:47:41,231-pycharm.log-INFO-__init__.py:44-[1500] >>>starting...
+2019-11-11 22:48:00,399-pycharm.log-INFO-vvargs.py:575-[7760] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:48:00,399-pycharm.log-INFO-__init__.py:44-[7760] >>>starting...
+2019-11-11 22:49:20,729-pycharm.log-INFO-vvargs.py:575-[10124] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:49:20,730-pycharm.log-INFO-__init__.py:44-[10124] >>>starting...
+2019-11-11 22:50:10,079-pycharm.log-INFO-vvargs.py:575-[3612] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:50:10,080-pycharm.log-INFO-__init__.py:44-[3612] >>>starting...
+2019-11-11 22:50:40,313-pycharm.log-INFO-vvargs.py:575-[10728] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:50:40,314-pycharm.log-INFO-__init__.py:44-[10728] >>>starting...
+2019-11-11 22:50:57,927-pycharm.log-INFO-vvargs.py:575-[8108] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:50:57,928-pycharm.log-INFO-__init__.py:44-[8108] >>>starting...
+2019-11-11 22:51:01,394-pycharm.log-INFO-vvargs.py:575-[8164] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:51:01,395-pycharm.log-INFO-__init__.py:44-[8164] >>>starting...
+2019-11-11 22:51:54,298-pycharm.log-INFO-vvargs.py:575-[5540] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:51:54,299-pycharm.log-INFO-__init__.py:44-[5540] >>>starting...
+2019-11-11 22:54:34,536-pycharm.log-INFO-vvargs.py:575-[3316] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:54:34,536-pycharm.log-INFO-__init__.py:44-[3316] >>>starting...
+2019-11-11 22:58:35,196-pycharm.log-INFO-vvargs.py:575-[4664] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:58:35,197-pycharm.log-INFO-__init__.py:44-[4664] >>>starting...
+2019-11-11 22:59:02,773-pycharm.log-INFO-vvargs.py:575-[8240] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:59:02,774-pycharm.log-INFO-__init__.py:44-[8240] >>>starting...
+2019-11-11 22:59:14,578-pycharm.log-INFO-vvargs.py:575-[1696] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 22:59:14,579-pycharm.log-INFO-__init__.py:44-[1696] >>>starting...
+2019-11-11 23:00:55,035-pycharm.log-INFO-vvargs.py:575-[4812] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:00:55,035-pycharm.log-INFO-__init__.py:44-[4812] >>>starting...
+2019-11-11 23:01:05,673-pycharm.log-ERROR-vvargs.py:138-[4812] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error 'str' object is not callable
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 20, in bot_idle
+    self.updater.idle()
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 530, in idle
+    sleep(1)
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 509, in signal_handler
+    self.user_sig_handler(signum, frame)
+TypeError: 'str' object is not callable
+
+2019-11-11 23:01:26,746-pycharm.log-INFO-vvargs.py:575-[3104] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:01:26,747-pycharm.log-INFO-__init__.py:44-[3104] >>>starting...
+2019-11-11 23:01:36,521-pycharm.log-ERROR-vvargs.py:138-[3104] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error 'str' object is not callable
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 20, in bot_idle
+    self.updater.idle()
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 530, in idle
+    sleep(1)
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 509, in signal_handler
+    self.user_sig_handler(signum, frame)
+TypeError: 'str' object is not callable
+
+2019-11-11 23:02:33,341-pycharm.log-INFO-vvargs.py:575-[3000] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:02:33,342-pycharm.log-INFO-__init__.py:44-[3000] >>>starting...
+2019-11-11 23:02:56,085-pycharm.log-INFO-vvargs.py:575-[1320] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:02:56,086-pycharm.log-INFO-__init__.py:44-[1320] >>>starting...
+2019-11-11 23:02:59,133-pycharm.log-INFO-vvargs.py:575-[3224] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:02:59,134-pycharm.log-INFO-__init__.py:44-[3224] >>>starting...
+2019-11-11 23:04:00,447-pycharm.log-INFO-vvargs.py:575-[1492] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:04:00,448-pycharm.log-INFO-__init__.py:44-[1492] >>>starting...
+2019-11-11 23:06:07,203-pycharm.log-INFO-vvargs.py:575-[8088] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:06:07,204-pycharm.log-INFO-__init__.py:44-[8088] >>>starting...
+2019-11-11 23:08:07,062-pycharm.log-INFO-vvargs.py:575-[9600] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:08:07,063-pycharm.log-INFO-__init__.py:44-[9600] >>>starting...
+2019-11-11 23:08:35,693-pycharm.log-INFO-vvargs.py:575-[9592] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:08:35,694-pycharm.log-INFO-__init__.py:44-[9592] >>>starting...
+2019-11-11 23:09:09,244-pycharm.log-INFO-vvargs.py:575-[9560] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:09:09,245-pycharm.log-INFO-__init__.py:44-[9560] >>>starting...
+2019-11-11 23:11:04,797-pycharm.log-INFO-vvargs.py:575-[3784] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:11:04,797-pycharm.log-INFO-__init__.py:44-[3784] >>>starting...
+2019-11-11 23:12:48,630-pycharm.log-INFO-vvargs.py:575-[7696] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:12:48,631-pycharm.log-INFO-__init__.py:44-[7696] >>>starting...
+2019-11-11 23:13:15,010-pycharm.log-INFO-vvargs.py:575-[7388] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:13:15,011-pycharm.log-INFO-__init__.py:44-[7388] >>>starting...
+2019-11-11 23:13:41,148-pycharm.log-INFO-vvargs.py:575-[2500] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:13:41,149-pycharm.log-INFO-__init__.py:44-[2500] >>>starting...
+2019-11-11 23:14:35,197-pycharm.log-INFO-vvargs.py:575-[2684] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:14:35,198-pycharm.log-INFO-__init__.py:44-[2684] >>>starting...
+2019-11-11 23:16:01,160-pycharm.log-INFO-vvargs.py:575-[7972] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:16:01,160-pycharm.log-INFO-__init__.py:44-[7972] >>>starting...
+2019-11-11 23:16:04,116-pycharm.log-INFO-vvargs.py:575-[7316] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:16:04,116-pycharm.log-INFO-__init__.py:44-[7316] >>>starting...
+2019-11-11 23:16:23,818-pycharm.log-INFO-vvargs.py:575-[9780] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:16:23,818-pycharm.log-INFO-__init__.py:44-[9780] >>>starting...
+2019-11-11 23:16:50,718-pycharm.log-INFO-vvargs.py:575-[7544] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:16:50,719-pycharm.log-INFO-__init__.py:44-[7544] >>>starting...
+2019-11-11 23:19:30,003-pycharm.log-INFO-vvargs.py:575-[4660] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:19:30,004-pycharm.log-INFO-__init__.py:44-[4660] >>>starting...
+2019-11-11 23:20:12,020-pycharm.log-INFO-vvargs.py:575-[1316] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:20:12,021-pycharm.log-INFO-__init__.py:44-[1316] >>>starting...
+2019-11-11 23:20:35,984-pycharm.log-INFO-vvargs.py:575-[6288] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:20:35,985-pycharm.log-INFO-__init__.py:44-[6288] >>>starting...
+2019-11-11 23:22:33,978-pycharm.log-INFO-vvargs.py:575-[1268] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:22:33,978-pycharm.log-INFO-__init__.py:44-[1268] >>>starting...
+2019-11-11 23:26:13,890-pycharm.log-INFO-vvargs.py:575-[1608] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:26:13,891-pycharm.log-INFO-__init__.py:44-[1608] >>>starting...
+2019-11-11 23:31:04,879-pycharm.log-INFO-vvargs.py:575-[7588] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:31:04,879-pycharm.log-INFO-__init__.py:44-[7588] >>>starting...
+2019-11-11 23:34:07,882-pycharm.log-INFO-vvargs.py:575-[612] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:34:07,882-pycharm.log-INFO-__init__.py:44-[612] >>>starting...
+2019-11-11 23:34:29,868-pycharm.log-INFO-vvargs.py:575-[3928] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-11 23:34:29,869-pycharm.log-INFO-__init__.py:44-[3928] >>>starting...
+2019-11-20 22:05:48,729-pycharm.log-INFO-vvargs.py:575-[12848] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:05:48,731-pycharm.log-INFO-__init__.py:44-[12848] >>>starting...
+2019-11-20 22:06:32,478-pycharm.log-INFO-vvargs.py:575-[5148] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:06:32,478-pycharm.log-INFO-__init__.py:44-[5148] >>>starting...
+2019-11-20 22:08:46,010-pycharm.log-INFO-vvargs.py:575-[740] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:08:46,011-pycharm.log-INFO-__init__.py:44-[740] >>>starting...
+2019-11-20 22:08:49,159-pycharm.log-ERROR-vvargs.py:138-[740] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error an integer is required (got type str)
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 21, in bot_idle
+    self.updater.idle(stop_signals='NOTELE')
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 525, in idle
+    signal(sig, self.signal_handler)
+  File "C:\Users\jeon\AppData\Local\Programs\Python\Python38-32\lib\signal.py", line 47, in signal
+    handler = _signal.signal(_enum_to_int(signalnum), _enum_to_int(handler))
+TypeError: an integer is required (got type str)
+
+2019-11-20 22:10:29,140-pycharm.log-INFO-vvargs.py:575-[9396] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:10:29,141-pycharm.log-INFO-__init__.py:44-[9396] >>>starting...
+2019-11-20 22:10:32,539-pycharm.log-ERROR-vvargs.py:138-[9396] 'telegram_func
+(Namespace(bot_token='869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU', chat_id='828556379', dumpspec=None, errfile=None, help=False, infile=None, logfile=None, loglevel=None, message='k', outfile=None, statfile=None, verbose=0),(),{})
+Error an integer is required (got type str)
+Error Stack: Traceback (most recent call last):
+  File "C:\Users\jeon\py4\lib\site-packages\alabs\common\util\vvargs.py", line 126, in new_function
+    r = original_function(mcxt, argspec, *args, **kwargs)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\__init__.py", line 49, in telegram_func
+    tbot.bot_idle(argspec.bot_token)
+  File "C:\Users\jeon\plugin-telegram\your\demo\telegram\telebot.py", line 21, in bot_idle
+    self.updater.idle(stop_signals=('NOTELE'))
+  File "C:\Users\jeon\py4\lib\site-packages\telegram\ext\updater.py", line 525, in idle
+    signal(sig, self.signal_handler)
+  File "C:\Users\jeon\AppData\Local\Programs\Python\Python38-32\lib\signal.py", line 47, in signal
+    handler = _signal.signal(_enum_to_int(signalnum), _enum_to_int(handler))
+TypeError: an integer is required (got type str)
+
+2019-11-20 22:11:34,681-pycharm.log-INFO-vvargs.py:575-[5592] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:11:34,682-pycharm.log-INFO-__init__.py:44-[5592] >>>starting...
+2019-11-20 22:12:25,844-pycharm.log-INFO-vvargs.py:575-[9392] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:12:25,845-pycharm.log-INFO-__init__.py:44-[9392] >>>starting...
+2019-11-20 22:13:05,125-pycharm.log-INFO-__init__.py:51-[9392] >>>end...
+2019-11-20 22:13:43,857-pycharm.log-INFO-vvargs.py:575-[7548] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:13:43,859-pycharm.log-INFO-__init__.py:44-[7548] >>>starting...
+2019-11-20 22:14:33,136-pycharm.log-INFO-vvargs.py:575-[2708] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:14:33,137-pycharm.log-INFO-__init__.py:44-[2708] >>>starting...
+2019-11-20 22:14:53,256-pycharm.log-INFO-vvargs.py:575-[13040] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:14:53,256-pycharm.log-INFO-__init__.py:44-[13040] >>>starting...
+2019-11-20 22:16:09,450-pycharm.log-INFO-vvargs.py:575-[3216] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:16:09,450-pycharm.log-INFO-__init__.py:44-[3216] >>>starting...
+2019-11-20 22:17:56,759-pycharm.log-INFO-vvargs.py:575-[8056] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:17:56,759-pycharm.log-INFO-__init__.py:44-[8056] >>>starting...
+2019-11-20 22:18:28,921-pycharm.log-INFO-vvargs.py:575-[11788] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:18:28,922-pycharm.log-INFO-__init__.py:44-[11788] >>>starting...
+2019-11-20 22:22:39,135-pycharm.log-INFO-vvargs.py:575-[10284] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:22:39,135-pycharm.log-INFO-__init__.py:44-[10284] >>>starting...
+2019-11-20 22:23:51,152-pycharm.log-INFO-vvargs.py:575-[4640] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:23:51,153-pycharm.log-INFO-__init__.py:44-[4640] >>>starting...
+2019-11-20 22:24:17,403-pycharm.log-INFO-vvargs.py:575-[3440] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:24:17,404-pycharm.log-INFO-__init__.py:44-[3440] >>>starting...
+2019-11-20 22:24:31,440-pycharm.log-INFO-vvargs.py:575-[196] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:24:31,440-pycharm.log-INFO-__init__.py:44-[196] >>>starting...
+2019-11-20 22:26:37,625-pycharm.log-INFO-vvargs.py:575-[7164] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:26:37,625-pycharm.log-INFO-__init__.py:44-[7164] >>>starting...
+2019-11-20 22:29:34,634-pycharm.log-INFO-vvargs.py:575-[5312] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:29:34,635-pycharm.log-INFO-__init__.py:44-[5312] >>>starting...
+2019-11-20 22:30:00,064-pycharm.log-INFO-vvargs.py:575-[6732] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:30:00,065-pycharm.log-INFO-__init__.py:44-[6732] >>>starting...
+2019-11-20 22:31:44,664-pycharm.log-INFO-vvargs.py:575-[3472] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:31:44,665-pycharm.log-INFO-__init__.py:44-[3472] >>>starting...
+2019-11-20 22:32:03,027-pycharm.log-INFO-vvargs.py:575-[9380] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:32:03,028-pycharm.log-INFO-__init__.py:44-[9380] >>>starting...
+2019-11-20 22:33:46,534-pycharm.log-INFO-vvargs.py:575-[6768] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:33:46,534-pycharm.log-INFO-__init__.py:44-[6768] >>>starting...
+2019-11-20 22:34:14,785-pycharm.log-INFO-vvargs.py:575-[10664] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:34:14,785-pycharm.log-INFO-__init__.py:44-[10664] >>>starting...
+2019-11-20 22:34:40,919-pycharm.log-INFO-vvargs.py:575-[5144] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:34:40,920-pycharm.log-INFO-__init__.py:44-[5144] >>>starting...
+2019-11-20 22:35:15,247-pycharm.log-INFO-vvargs.py:575-[9468] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:35:15,247-pycharm.log-INFO-__init__.py:44-[9468] >>>starting...
+2019-11-20 22:35:30,978-pycharm.log-INFO-vvargs.py:575-[5332] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:35:30,979-pycharm.log-INFO-__init__.py:44-[5332] >>>starting...
+2019-11-20 22:35:34,483-pycharm.log-INFO-__init__.py:51-[5332] >>>end...
+2019-11-20 22:36:21,330-pycharm.log-INFO-vvargs.py:575-[3124] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:36:21,330-pycharm.log-INFO-__init__.py:44-[3124] >>>starting...
+2019-11-20 22:36:24,554-pycharm.log-INFO-__init__.py:51-[3124] >>>end...
+2019-11-20 22:37:20,503-pycharm.log-INFO-vvargs.py:575-[11644] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:37:20,504-pycharm.log-INFO-__init__.py:44-[11644] >>>starting...
+2019-11-20 22:37:24,003-pycharm.log-INFO-__init__.py:51-[11644] >>>end...
+2019-11-20 22:39:27,313-pycharm.log-INFO-vvargs.py:575-[2288] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:39:27,314-pycharm.log-INFO-__init__.py:44-[2288] >>>starting...
+2019-11-20 22:39:30,356-pycharm.log-INFO-__init__.py:51-[2288] >>>end...
+2019-11-20 22:40:03,988-pycharm.log-INFO-vvargs.py:575-[12672] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:40:03,988-pycharm.log-INFO-__init__.py:44-[12672] >>>starting...
+2019-11-20 22:40:07,287-pycharm.log-INFO-__init__.py:51-[12672] >>>end...
+2019-11-20 22:40:18,882-pycharm.log-INFO-vvargs.py:575-[9984] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:40:18,882-pycharm.log-INFO-__init__.py:44-[9984] >>>starting...
+2019-11-20 22:40:22,035-pycharm.log-INFO-__init__.py:51-[9984] >>>end...
+2019-11-20 22:41:32,466-pycharm.log-INFO-vvargs.py:575-[8080] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:41:32,467-pycharm.log-INFO-__init__.py:44-[8080] >>>starting...
+2019-11-20 22:41:35,482-pycharm.log-INFO-__init__.py:51-[8080] >>>end...
+2019-11-20 22:44:07,091-pycharm.log-INFO-vvargs.py:575-[8740] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:44:07,091-pycharm.log-INFO-__init__.py:44-[8740] >>>starting...
+2019-11-20 22:44:10,141-pycharm.log-INFO-__init__.py:51-[8740] >>>end...
+2019-11-20 22:44:28,455-pycharm.log-INFO-vvargs.py:575-[13108] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:44:28,456-pycharm.log-INFO-__init__.py:44-[13108] >>>starting...
+2019-11-20 22:46:04,806-pycharm.log-INFO-vvargs.py:575-[3936] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 22:46:04,807-pycharm.log-INFO-__init__.py:44-[3936] >>>starting...
+2019-11-20 22:46:07,915-pycharm.log-INFO-__init__.py:51-[3936] >>>end...
+2019-11-20 23:03:10,812-pycharm.log-INFO-vvargs.py:575-[8872] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:03:10,813-pycharm.log-INFO-__init__.py:44-[8872] >>>starting...
+2019-11-20 23:03:16,380-pycharm.log-INFO-__init__.py:51-[8872] >>>end...
+2019-11-20 23:04:50,378-pycharm.log-INFO-vvargs.py:575-[896] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:04:50,378-pycharm.log-INFO-__init__.py:44-[896] >>>starting...
+2019-11-20 23:04:56,842-pycharm.log-INFO-__init__.py:51-[896] >>>end...
+2019-11-20 23:13:37,987-pycharm.log-INFO-vvargs.py:575-[2460] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:13:37,991-pycharm.log-INFO-__init__.py:44-[2460] >>>starting...
+2019-11-20 23:13:41,218-pycharm.log-INFO-__init__.py:51-[2460] >>>end...
+2019-11-20 23:14:34,653-pycharm.log-INFO-vvargs.py:575-[4836] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:14:34,653-pycharm.log-INFO-__init__.py:44-[4836] >>>starting...
+2019-11-20 23:14:50,007-pycharm.log-INFO-vvargs.py:575-[132] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:14:50,007-pycharm.log-INFO-__init__.py:44-[132] >>>starting...
+2019-11-20 23:17:56,917-pycharm.log-INFO-vvargs.py:575-[6468] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:17:56,918-pycharm.log-INFO-__init__.py:44-[6468] >>>starting...
+2019-11-20 23:17:59,944-pycharm.log-INFO-__init__.py:51-[6468] >>>end...
+2019-11-20 23:18:12,366-pycharm.log-INFO-vvargs.py:575-[4284] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:18:12,367-pycharm.log-INFO-__init__.py:44-[4284] >>>starting...
+2019-11-20 23:18:15,649-pycharm.log-INFO-__init__.py:51-[4284] >>>end...
+2019-11-20 23:36:11,785-pycharm.log-INFO-vvargs.py:575-[9912] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-20 23:36:11,785-pycharm.log-INFO-__init__.py:44-[9912] >>>starting...
+2019-11-20 23:36:15,050-pycharm.log-INFO-__init__.py:51-[9912] >>>end...
+2019-11-21 00:09:05,079-pycharm.log-INFO-vvargs.py:575-[5788] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-21 00:09:05,079-pycharm.log-INFO-__init__.py:44-[5788] >>>starting...
+2019-11-21 00:09:10,969-pycharm.log-INFO-__init__.py:51-[5788] >>>end...
+2019-11-24 21:58:49,015-pycharm.log-INFO-vvargs.py:575-[2656] args={'bot_token': '869039844:AAGFdLUCvKc1cUC2Qf08mOuKN27fcggJ3EU',
+ 'chat_id': '828556379',
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'message': 'k',
+ 'outfile': None,
+ 'statfile': None,
+ 'verbose': 0}: opened
+2019-11-24 21:58:49,016-pycharm.log-INFO-__init__.py:44-[2656] >>>starting...
+2019-11-24 21:58:52,100-pycharm.log-INFO-__init__.py:51-[2656] >>>end...

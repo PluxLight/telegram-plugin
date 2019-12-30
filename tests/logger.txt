@@ -1,0 +1,2 @@
+2019-11-11 16:25:33,150-logger.txt-INFO-telebot.py:24-[7912] get message
+2019-11-11 16:25:33,151-logger.txt-INFO-telebot.py:25-[7912] yes
